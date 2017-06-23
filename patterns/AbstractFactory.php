@@ -28,8 +28,10 @@ Description
  /* Button */
 
  abstract class ButtonAbstract
- {
- }
+{
+
+}
+
 
  class WindowsButton extends ButtonAbstract
  {
@@ -63,7 +65,7 @@ Description
 
  /* Factory */
 
- abstract classFormBuilder
+ abstract class FormBuilder
  {
      abstract public function createForm();
 
@@ -140,4 +142,3 @@ Description
  }
 
  createScreen($form, $button, $label);
-```
