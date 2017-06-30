@@ -78,7 +78,6 @@ class State
     }
 }
 
-*/
 class Ticket
 {
     /**

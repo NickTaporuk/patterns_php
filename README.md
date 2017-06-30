@@ -28,3 +28,5 @@ Strategy (Стратегия)
 Template Method (Шаблонный метод)
 Visitor (Посетитель)
 NullObject(Null объект)
+### 
+Fluent interface(Текучий интерфейс)
